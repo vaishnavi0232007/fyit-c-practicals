@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756635127 source:e:\new folder\gym\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
